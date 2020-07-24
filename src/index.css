@@ -1,0 +1,11 @@
+h2,h3 {
+  font-family: fantasy;
+}
+
+td, label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#genre-button:focus {
+  background: rgb(186, 222, 245);
+}

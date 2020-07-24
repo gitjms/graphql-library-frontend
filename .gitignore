@@ -1,0 +1,8 @@
+/node_modules
+/build
+/__mocks__
+package-lock.json
+.vscode
+.DS_Store
+omia.txt
+apollo-project.txt
